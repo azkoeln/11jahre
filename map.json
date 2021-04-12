@@ -33,6 +33,12 @@
          "id":29,
          "name":"Badewanne",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/tunein.com\/radio\/Klncampus-1000-s9818\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -229,7 +235,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/Bqx7NLSd-QY?autoplay=1&controls=0&showinfo=0&loop=1\u200b"
+                 "value":"https:\/\/www.youtube.com\/embed\/hMeyP7AWUJU?autoplay=1&loop=1"
                 }, 
                 {
                  "name":"openWebsitePolicy",
