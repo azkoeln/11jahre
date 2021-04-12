@@ -975,18 +975,8 @@
          "transparentcolor":"#ff00ff"
         }, 
         {
-         "columns":16,
          "firstgid":1782,
-         "image":"..\/..\/world-map-starterkit-master\/world-map-starterkit-master\/tiles_png\/deco\/rc3-mullana-objects.png",
-         "imageheight":256,
-         "imagewidth":512,
-         "margin":0,
-         "name":"rc3-mullana-objects",
-         "spacing":0,
-         "tilecount":128,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
+         "source":"src\/rc3-mullana-objects.tsx"
         }, 
         {
          "firstgid":1910,
