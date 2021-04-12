@@ -44,7 +44,7 @@
          "height":29,
          "id":11,
          "name":"start",
-         "opacity":1,
+         "opacity":0.39,
          "properties":[
                 {
                  "name":"startLayer",
@@ -633,6 +633,15 @@
                         }]
                 }, 
                 {
+                 "id":120,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":136,
                  "properties":[
                         {
@@ -979,6 +988,43 @@
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":2,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":22,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":38,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":54,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
         }, 
