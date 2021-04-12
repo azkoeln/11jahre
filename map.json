@@ -259,6 +259,11 @@
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"allowfullscreen"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
