@@ -959,7 +959,7 @@
         {
          "columns":16,
          "firstgid":1782,
-         "image":"..\/..\/world-map-starterkit-master\/world-map-starterkit-master\/tiles_png\/deco\/rc3-mullana-objects.png",
+         "image":"src\/rc3-mullana-objects.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
