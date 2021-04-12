@@ -145,7 +145,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"backstage.json#start"
+                 "value":"Backstage.json"
                 }],
          "type":"tilelayer",
          "visible":true,
