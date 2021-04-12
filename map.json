@@ -975,12 +975,32 @@
          "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":16,
          "firstgid":1782,
-         "source":"src\/rc3-mullana-objects.tsx"
+         "image":"..\/..\/world-map-starterkit-master\/world-map-starterkit-master\/tiles_png\/deco\/rc3-mullana-objects.png",
+         "imageheight":256,
+         "imagewidth":512,
+         "margin":0,
+         "name":"rc3-mullana-objects",
+         "spacing":0,
+         "tilecount":128,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":2,
          "firstgid":1910,
-         "source":"src\/07_tuer_doppel.tsx"
+         "image":"..\/..\/world-map-starterkit-master\/world-map-starterkit-master\/tiles_png\/community\/cert\/imgs\/doors\/07_tuer_doppel.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"07_tuer_doppel",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
