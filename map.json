@@ -42,7 +42,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\"https:\/\/api.soundcloud.com\/tracks\/9176638&color=%23ff5500&auto_play=true\""
+                 "value":"http:\/\/koelncampus.uni-koeln.de\/low.m3u"
                 }],
          "type":"tilelayer",
          "visible":true,
