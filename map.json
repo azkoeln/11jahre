@@ -35,6 +35,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"https:\/\/soundcloud.com\/aesthetik-1\/good-morning-minimal"
