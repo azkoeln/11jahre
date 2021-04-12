@@ -20,7 +20,7 @@
          "height":29,
          "id":18,
          "name":"AZHof-Background",
-         "opacity":0.08,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":50,
