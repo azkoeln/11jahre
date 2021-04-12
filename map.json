@@ -240,7 +240,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"autoplay=1;fullscreen;"
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
