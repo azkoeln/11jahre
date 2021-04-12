@@ -229,12 +229,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/Bqx7NLSd-QY"
+                 "value":"https:\/\/www.youtube.com\/embed\/Bqx7NLSd-QY?autoplay=1&controls=0&showinfo=0&loop=1\u200b"
                 }, 
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\""
+                 "value":"autoplay"
                 }],
          "type":"tilelayer",
          "visible":true,
