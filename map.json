@@ -42,7 +42,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"koelncampus.uni-koeln.de:8160\/mid.ogg"
+                 "value":"http:\/\/koelncampus.uni-koeln.de\/hq.m3u"
                 }],
          "type":"tilelayer",
          "visible":true,
