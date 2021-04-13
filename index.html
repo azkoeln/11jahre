@@ -31,8 +31,10 @@
                 var liveurl = 'https://wa.tabascoeye.de/_/global/'+window.location.host+path+'map.json';
                 var testurl = 'https://wa.tabascoeye.de/_/test/'+window.location.host+path+'map.json';
                 document.getElementById('mapLink').href = liveurl;
+                document.getElementById('mapLink2').href = liveurl;
                 document.getElementById('mapLink').innerText = liveurl;
                 document.getElementById('mapLinkTest').href = testurl;
+	              document.getElementById('mapLinkTest2').href = testurl;
 				document.getElementById('mapLinkTest').innerText = testurl;
 
                 var mapUrl = window.location.protocol+'//'+window.location.host+path+'map.json';
@@ -56,13 +58,13 @@
            <div class="nes-container with-title is-centered" style="margin-top: 1rem">
                 <p class="title">Live version for AZ birthday</p>
                 <p>Go here to enjoy the party <a id="mapLink" href=""></a>.</p>
-                <p><a id="mapLink" href="" class="nes-btn is-primary">Jump in</a></p>
+                <p><a id="mapLink2" href="" class="nes-btn is-primary">Jump in</a></p>
             </div>
 
             <div class="nes-container with-title is-centered" style="margin-top: 1rem">
                 <p class="title">Test this map</p>
                 <p>You can test this map at <a id="mapLinkTest" href=""></a>.</p>
-                <p><a id="mapLinkTest" href="" class="nes-btn is-primary">Test this map</a></p>
+                <p><a id="mapLinkTest2" href="" class="nes-btn is-primary">Test this map</a></p>
             </div>
         </div>
     </body>
