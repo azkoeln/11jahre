@@ -99,12 +99,6 @@
          "id":8,
          "name":"Theke",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"KonzertraumTheke"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":20,
