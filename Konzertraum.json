@@ -10,13 +10,31 @@
  "infinite":false,
  "layers":[
         {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 133, 133, 133, 133, 133, 133, 133, 133, 133, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 133, 133, 133, 133, 133, 133, 133, 133, 133, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 133, 133, 133, 133, 133, 133, 133, 133, 133, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 133, 133, 133, 133, 133, 133, 133, 133, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 133, 133, 133, 133, 133, 133, 133, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 133, 133, 133, 133, 133, 133, 133, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 133, 133, 133, 133, 133, 133, 133, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 133, 133, 133, 133, 133, 133, 133],
+         "height":8,
+         "id":11,
+         "name":"DanceFloor",
+         "opacity":0.09,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }, 
+        {
          "data":[210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 197, 210, 210, 210, 210, 210, 210, 210, 197, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 197, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 197, 210, 210, 210, 210, 210, 210, 210, 210, 197, 210, 210, 210, 210, 210, 210, 210, 210, 210, 197, 210, 210, 210],
          "height":8,
          "id":7,
          "name":"boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -34,7 +52,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/Bqx7NLSd-QY?rel=0?version=3&autoplay=1&controls=0&showinfo=0&loop=0\n"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -64,25 +82,7 @@
          "name":"Theke",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
-         "width":20,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1610613203, 0, 0, 0, 1610613203, 0, 0, 0],
-         "height":8,
-         "id":11,
-         "name":"DanceFloor",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"silent",
-                 "type":"bool",
-                 "value":true
-                }],
-         "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -94,12 +94,12 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 453, 457, 0, 0, 0, 0, 0, 0, 0, 0],
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 453, 453, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":8,
          "id":6,
          "name":"exit",
@@ -111,19 +111,7 @@
                  "value":"map.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
-         "width":20,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 469, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":8,
-         "id":10,
-         "name":"Diskokugel",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -199,166 +187,6 @@
          "tilecount":1,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":0,
-         "firstgid":454,
-         "grid":
-            {
-             "height":1,
-             "orientation":"orthogonal",
-             "width":1
-            },
-         "margin":0,
-         "name":"Partykram",
-         "objectalignment":"center",
-         "spacing":0,
-         "tilecount":20,
-         "tileheight":172,
-         "tiles":[
-                {
-                 "id":0,
-                 "image":"src\/cert_safety\/01_fire_extinguisher.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":1,
-                 "image":"src\/cert_safety\/02_kfz_verbandskasten_32x32.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":2,
-                 "image":"src\/cert_safety\/03_eh-wandschrank_32x32.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":3,
-                 "image":"src\/cert_safety\/04_emergency_exit_left_32x32-sheet.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":4,
-                 "image":"src\/cert_safety\/05_emergency_exit_right_32x32.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":5,
-                 "image":"src\/cert_safety\/11_safety_cone.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":6,
-                 "image":"src\/cert_safety\/12_l\u00f6schdecke_32x32.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":7,
-                 "image":"src\/cert_safety\/15_caution_tape_arrow_32x32-sheet.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":8,
-                 "image":"src\/cert_safety\/17_rauchverbot.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":9,
-                 "image":"src\/cert_safety\/18_F-schild.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":10,
-                 "image":"src\/cert_safety\/19_Stopschild.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":11,
-                 "image":"src\/party\/Bottle.png",
-                 "imageheight":57,
-                 "imagewidth":18
-                }, 
-                {
-                 "id":12,
-                 "image":"src\/party\/BrokenBottle.png",
-                 "imageheight":18,
-                 "imagewidth":57
-                }, 
-                {
-                 "id":13,
-                 "image":"src\/party\/DanceFloor.png",
-                 "imageheight":128,
-                 "imagewidth":256,
-                 "objectgroup":
-                    {
-                     "draworder":"index",
-                     "name":"",
-                     "objects":[
-                            {
-                             "height":128,
-                             "id":1,
-                             "name":"",
-                             "rotation":0,
-                             "type":"",
-                             "visible":true,
-                             "width":256,
-                             "x":0,
-                             "y":0
-                            }],
-                     "opacity":1,
-                     "type":"objectgroup",
-                     "visible":true,
-                     "x":0,
-                     "y":0
-                    }
-                }, 
-                {
-                 "id":14,
-                 "image":"src\/party\/Dancer.png",
-                 "imageheight":172,
-                 "imagewidth":192
-                }, 
-                {
-                 "id":15,
-                 "image":"src\/party\/DiscoBall.png",
-                 "imageheight":128,
-                 "imagewidth":128
-                }, 
-                {
-                 "id":16,
-                 "image":"src\/party\/DJ.png",
-                 "imageheight":172,
-                 "imagewidth":256
-                }, 
-                {
-                 "id":17,
-                 "image":"src\/party\/HighBar.png",
-                 "imageheight":96,
-                 "imagewidth":172
-                }, 
-                {
-                 "id":18,
-                 "image":"src\/party\/JukeBox.png",
-                 "imageheight":172,
-                 "imagewidth":96
-                }, 
-                {
-                 "id":19,
-                 "image":"src\/party\/Speaker.png",
-                 "imageheight":172,
-                 "imagewidth":96
-                }],
-         "tilewidth":256
         }],
  "tilewidth":32,
  "type":"map",
