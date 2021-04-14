@@ -131,7 +131,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"GoWebsite",
+                 "name":"OpenWebsite",
                  "type":"string",
                  "value":"https:\/\/azkoeln.github.io\/11jahre\/src\/videobackstage.mp4"
                 }],
