@@ -236,11 +236,6 @@
                  "name":"exitUrl",
                  "type":"string",
                  "value":"Kozertraum.json"
-                }, 
-                {
-                 "name":"silent",
-                 "type":"bool",
-                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
