@@ -233,14 +233,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/Bqx7NLSd-QY?rel=0?version=3&autoplay=1&controls=0&showinfo=0&loop=0"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"allowfullscreen"
+                 "value":"Kozertraum.json"
                 }, 
                 {
                  "name":"silent",
