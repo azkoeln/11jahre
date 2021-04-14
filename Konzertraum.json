@@ -85,7 +85,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"map.json#Notausgang"
                 }],
          "type":"tilelayer",
          "visible":true,
