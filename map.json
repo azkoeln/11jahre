@@ -22,7 +22,7 @@
          "name":"AZHof-Background",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -40,7 +40,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/g7B3SOHMQ2w"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
          "name":"Wand",
          "opacity":0.12,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -64,7 +64,7 @@
          "name":"Schrott",
          "opacity":0.11,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -82,7 +82,7 @@
                  "value":"map.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -100,7 +100,7 @@
                  "value":"map.json#garten"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -118,7 +118,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -136,7 +136,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -154,7 +154,7 @@
                  "value":"Backstage.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -172,7 +172,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -190,7 +190,7 @@
                  "value":"SofaImHof"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -202,7 +202,7 @@
          "name":"Feuerl\u00f6scher",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -220,7 +220,7 @@
                  "value":"aeztheke"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -238,7 +238,7 @@
                  "value":"Pinkelrinne"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -248,7 +248,7 @@
          "height":29,
          "id":33,
          "name":"Notausgang",
-         "opacity":0.13,
+         "opacity":0.22,
          "properties":[
                 {
                  "name":"startLayer",
@@ -274,7 +274,7 @@
                  "value":"Konzertraum.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -286,7 +286,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }],
