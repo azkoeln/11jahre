@@ -235,7 +235,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Kozertraum.json"
+                 "value":"Konzertraum.json"
                 }],
          "type":"tilelayer",
          "visible":true,
