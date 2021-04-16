@@ -265,7 +265,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/radio.gaengeviertel.tk\/(NULL):8000"
+                 "value":"http:\/\/radio.gaengeviertel.tk:8000\/stream"
                 }],
          "type":"tilelayer",
          "visible":true,
