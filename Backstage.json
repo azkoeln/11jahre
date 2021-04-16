@@ -17,7 +17,7 @@
          "name":"boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":11,
          "x":0,
          "y":0
@@ -29,7 +29,7 @@
          "name":"moebel",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":11,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
                  "value":"autoplay=1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":11,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
                  "value":"https:\/\/azkoeln.github.io\/11jahre\/src\/fotowerkoriginal.jpg"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":11,
          "x":0,
          "y":0
@@ -88,13 +88,13 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":11,
          "x":0,
          "y":0
         }, 
         {
-         "data":[2554, 0, 0, 0, 0, 0, 0, 2553, 2553, 2553, 3, 2554, 0, 0, 0, 0, 0, 0, 1410, 1411, 0, 0, 2555, 0, 0, 0, 0, 0, 0, 1442, 1443, 0, 0, 0, 0, 0, 0, 0, 0, 1434, 1435, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684357113, 0, 2684354978, 2684354978, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354979, 2684354979, 1410, 1411, 1610612786, 1610612802, 1272, 2554, 0, 0, 0, 2684354980, 2684354980, 1442, 1443, 1610612785, 1610612801, 1304, 1305, 0, 0],
+         "data":[2554, 0, 0, 0, 0, 0, 0, 2553, 2553, 2553, 3, 2554, 0, 0, 0, 0, 0, 0, 1410, 1411, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1442, 1443, 0, 0, 0, 0, 0, 0, 0, 0, 1434, 1435, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684357113, 0, 2684354978, 2684354978, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354979, 2684354979, 1410, 1411, 1610612786, 1610612802, 1272, 2554, 0, 0, 0, 2684354980, 2684354980, 1442, 1443, 1610612785, 1610612801, 1304, 1305, 0, 0],
          "height":8,
          "id":8,
          "name":"getr\u00e4nke",
@@ -118,7 +118,7 @@
                  "value":"jitsisofa1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":11,
          "x":0,
          "y":0
@@ -136,7 +136,7 @@
                  "value":"https:\/\/azkoeln.github.io\/11jahre\/src\/videobackstage.mp4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":11,
          "x":0,
          "y":0
@@ -154,7 +154,7 @@
                  "value":"map.json#aezGarage"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":11,
          "x":0,
          "y":0
@@ -166,7 +166,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -177,7 +177,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }],
