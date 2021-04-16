@@ -875,7 +875,9 @@
                 }, 
                 {
                  "id":12,
-                 "image":"src\/img\/feuertonneoriginal.jpeg"
+                 "image":"src\/party\/Bottle.png",
+                 "imageheight":57,
+                 "imagewidth":18
                 }, 
                 {
                  "id":16,
@@ -1014,19 +1016,6 @@
          "name":"Speaker",
          "spacing":0,
          "tilecount":2,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":6,
-         "firstgid":555,
-         "image":"src\/party\/Dancer.png",
-         "imageheight":172,
-         "imagewidth":192,
-         "margin":0,
-         "name":"Dancer",
-         "spacing":0,
-         "tilecount":30,
          "tileheight":32,
          "tilewidth":32
         }],
