@@ -139,7 +139,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.twitch.tv\/?channel=azkoeln&parent=https:\/\/wa.tabascoeye.de"
+                 "value":"\"https:\/\/clips.twitch.tv\/embed?clip=<slug>&parent=streamernews.example.com"
                 }, 
                 {
                  "name":"openWebsitePolicy",
