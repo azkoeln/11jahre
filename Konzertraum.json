@@ -139,7 +139,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\"https:\/\/clips.twitch.tv\/embed?clip=<slug>&parent=streamernews.example.com"
+                 "value":"https:\/\/clips.twitch.tv\/embed?clip=<slug>&parent=streamernews.example.com"
                 }, 
                 {
                  "name":"openWebsitePolicy",
