@@ -137,9 +137,9 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/player.twitch.tv\/?channel=azkoeln&parent=www.example.com"
+                 "value":"http:\/\/radio.gaengeviertel.tk:8000\/stream"
                 }],
          "type":"tilelayer",
          "visible":true,
