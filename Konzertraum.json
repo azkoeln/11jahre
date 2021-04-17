@@ -139,7 +139,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.twitch.tv\/?channel=azkoeln"
+                 "value":"https:\/\/player.twitch.tv\/?channel=azkoeln&parent=www.example.com"
                 }],
          "type":"tilelayer",
          "visible":true,
