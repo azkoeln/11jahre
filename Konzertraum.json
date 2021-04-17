@@ -139,7 +139,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.twitch.tv\/?channel=azkoeln&parent=wa.tabascoeye.de"
+                 "value":"https:\/\/player.twitch.tv\/?channel=azkoeln"
                 }],
          "type":"tilelayer",
          "visible":true,
