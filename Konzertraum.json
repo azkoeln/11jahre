@@ -139,12 +139,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.twitch.tv\/?channel=azkoeln&parent=https:\/\/wa.tabascoeye.de\/_\/test\/azkoeln.github.io\/11jahre\/Konzertraum.json"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"autoplay"
+                 "value":"https:\/\/player.twitch.tv\/?channel=azkoeln&parent=wa.tabascoeye.de"
                 }],
          "type":"tilelayer",
          "visible":true,
