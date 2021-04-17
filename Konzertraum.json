@@ -10,7 +10,7 @@
  "infinite":false,
  "layers":[
         {
-         "data":[206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 193, 206, 206, 206, 206, 206, 206, 206, 193, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 193, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 193, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 193, 206, 206, 206, 206, 206, 206, 206, 206, 206, 193, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206],
+         "data":[206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 193, 206, 206, 206, 206, 206, 206, 206, 193, 206, 206, 193, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 193, 206, 206, 193, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 193, 206, 206, 193, 206, 206, 206, 206, 206, 206, 206, 206, 193, 206, 206, 206, 206, 206, 206, 206, 206, 206, 193, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206, 206],
          "height":11,
          "id":7,
          "name":"boden",
@@ -33,6 +33,18 @@
                  "type":"bool",
                  "value":true
                 }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":23,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 510, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3221225982, 511, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684355071, 2684355070, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684355071, 2684355070, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684357483, 2684357479, 2684357475, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684357484, 2684357480, 2684357476, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684357485, 2684357481, 2684357477, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684357486, 2684357482, 2684357478, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684355071, 2684355070, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684355071, 2684355070, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":11,
+         "id":14,
+         "name":"djpult",
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":23,
@@ -112,7 +124,7 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 206, 206, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 206, 23, 206, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 206, 39, 206, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 206, 55, 206, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 206, 206, 206, 206, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 514, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 518, 518, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "data":[512, 513, 0, 0, 0, 0, 0, 0, 0, 516, 517, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 512, 513, 206, 206, 0, 0, 0, 0, 0, 518, 519, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 206, 23, 206, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 206, 39, 206, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 206, 55, 206, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 515, 0, 0, 0, 0, 0, 0, 206, 206, 206, 206, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 514, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 515, 0, 0, 0, 0, 0, 0, 3221225983, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 515, 515, 3221225982, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":11,
          "id":8,
          "name":"Theke",
@@ -124,19 +136,7 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":11,
-         "id":14,
-         "name":"djpult",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":23,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[531, 530, 0, 0, 0, 0, 505, 0, 0, 0, 0, 0, 458, 458, 0, 0, 479, 479, 479, 479, 0, 0, 0, 531, 530, 0, 0, 0, 0, 0, 0, 0, 519, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 518, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 518, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 552, 0, 0, 0, 0, 0, 510, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 505, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 503, 0, 0, 0, 503, 0, 0, 0],
+         "data":[0, 0, 0, 0, 0, 0, 501, 0, 0, 0, 0, 0, 454, 454, 0, 562, 563, 562, 563, 564, 565, 566, 567, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 634, 635, 624, 625, 0, 642, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 533, 0, 0, 568, 0, 650, 651, 640, 641, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 499, 0, 0, 0, 499, 0, 0, 658],
          "height":11,
          "id":13,
          "name":"deko",
@@ -255,58 +255,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":2,
-         "firstgid":450,
-         "image":"src\/diskokugelicon.png",
-         "imageheight":64,
-         "imagewidth":64,
-         "margin":0,
-         "name":"diskokugelicon",
-         "spacing":0,
-         "tilecount":4,
-         "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
-                 "id":1,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
-                 "id":2,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
-                 "id":3,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }],
-         "tilewidth":32
-        }, 
-        {
          "columns":5,
-         "firstgid":454,
+         "firstgid":450,
          "image":"src\/herz.png",
          "imageheight":160,
          "imagewidth":160,
@@ -386,7 +336,7 @@
         }, 
         {
          "columns":4,
-         "firstgid":479,
+         "firstgid":475,
          "image":"src\/lichtschlauchblau.png",
          "imageheight":128,
          "imagewidth":128,
@@ -601,7 +551,7 @@
         }, 
         {
          "columns":5,
-         "firstgid":499,
+         "firstgid":495,
          "image":"src\/lichtpunkte.png",
          "imageheight":32,
          "imagewidth":160,
@@ -714,7 +664,7 @@
         }, 
         {
          "columns":5,
-         "firstgid":504,
+         "firstgid":500,
          "image":"src\/blauerspot.png",
          "imageheight":32,
          "imagewidth":160,
@@ -752,7 +702,7 @@
         }, 
         {
          "columns":5,
-         "firstgid":509,
+         "firstgid":505,
          "image":"src\/roterspot.png",
          "imageheight":32,
          "imagewidth":160,
@@ -793,216 +743,234 @@
          "tilewidth":32
         }, 
         {
-         "columns":0,
-         "firstgid":514,
-         "grid":
-            {
-             "height":1,
-             "orientation":"orthogonal",
-             "width":1
-            },
+         "columns":1,
+         "firstgid":510,
+         "image":"src\/party\/Speaker.png",
+         "imageheight":64,
+         "imagewidth":32,
          "margin":0,
-         "name":"img",
+         "name":"Speaker",
          "spacing":0,
-         "tilecount":17,
-         "tileheight":96,
-         "tiles":[
-                {
-                 "id":0,
-                 "image":"src\/img\/3Bottle.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":1,
-                 "image":"src\/img\/07_tuer_doppel.png",
-                 "imageheight":64,
-                 "imagewidth":64
-                }, 
-                {
-                 "id":3,
-                 "image":"src\/img\/Bottle.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":4,
-                 "image":"src\/img\/BrokenBottle.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":5,
-                 "image":"src\/img\/diskokugelicon.png",
-                 "imageheight":64,
-                 "imagewidth":64
-                }, 
-                {
-                 "id":6,
-                 "image":"src\/img\/feuertonne0.png",
-                 "imageheight":64,
-                 "imagewidth":64
-                }, 
-                {
-                 "id":7,
-                 "image":"src\/img\/feuertonne2.png",
-                 "imageheight":64,
-                 "imagewidth":64
-                }, 
-                {
-                 "id":8,
-                 "image":"src\/img\/feuertonne3.png",
-                 "imageheight":64,
-                 "imagewidth":64
-                }, 
-                {
-                 "id":9,
-                 "image":"src\/img\/feuertonne4.png",
-                 "imageheight":64,
-                 "imagewidth":64
-                }, 
-                {
-                 "id":10,
-                 "image":"src\/img\/feuertonne5.png",
-                 "imageheight":64,
-                 "imagewidth":64
-                }, 
-                {
-                 "id":11,
-                 "image":"src\/img\/feuertonneGIF.gif"
-                }, 
-                {
-                 "id":12,
-                 "image":"src\/img\/Bottle.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":16,
-                 "image":"src\/img\/rotk\u00e4ppchenkiste.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":17,
-                 "image":"src\/img\/sektflaschen.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":18,
-                 "image":"src\/img\/sektglaeser.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":19,
-                 "image":"src\/img\/spiegel.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":20,
-                 "image":"src\/img\/Table.png",
-                 "imageheight":96,
-                 "imagewidth":172
-                }],
-         "tilewidth":172
+         "tilecount":2,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
-         "columns":0,
-         "firstgid":535,
-         "grid":
-            {
-             "height":1,
-             "orientation":"orthogonal",
-             "width":1
-            },
+         "columns":1,
+         "firstgid":512,
+         "image":"src\/img\/rotk\u00e4ppchenkiste.png",
+         "imageheight":32,
+         "imagewidth":32,
          "margin":0,
-         "name":"img",
+         "name":"rotk\u00e4ppchenkiste",
          "spacing":0,
-         "tilecount":13,
-         "tileheight":64,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":1,
+         "firstgid":513,
+         "image":"src\/img\/sektflaschen.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"sektflaschen",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":1,
+         "firstgid":514,
+         "image":"src\/img\/3Bottle.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"3Bottle",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":1,
+         "firstgid":515,
+         "image":"src\/img\/BrokenBottle.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"BrokenBottle",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":2,
+         "firstgid":516,
+         "image":"src\/img\/diskokugelicon.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"diskokugelicon",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":7,
+         "firstgid":520,
+         "image":"src\/deco_minideko.png",
+         "imageheight":416,
+         "imagewidth":224,
+         "margin":0,
+         "name":"deco_minideko",
+         "spacing":0,
+         "tilecount":91,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":611,
+         "image":"src\/deco_rc3-mullana-neon-signs.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"deco_rc3-mullana-neon-signs",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
          "tiles":[
                 {
-                 "id":0,
-                 "image":"src\/img\/3Bottle.png",
-                 "imageheight":32,
-                 "imagewidth":32
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":76
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":7
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":6
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":38
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":76
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":92
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":92
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":108
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":108
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":108
+                        }],
+                 "id":0
                 }, 
                 {
-                 "id":1,
-                 "image":"src\/img\/07_tuer_doppel.png",
-                 "imageheight":64,
-                 "imagewidth":64
-                }, 
-                {
-                 "id":2,
-                 "image":"src\/img\/Bottle.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":3,
-                 "image":"src\/img\/BrokenBottle.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":6,
-                 "image":"src\/img\/feuertonne0.png",
-                 "imageheight":64,
-                 "imagewidth":64
-                }, 
-                {
-                 "id":8,
-                 "image":"src\/img\/feuertonne2.png",
-                 "imageheight":64,
-                 "imagewidth":64
-                }, 
-                {
-                 "id":9,
-                 "image":"src\/img\/feuertonne3.png",
-                 "imageheight":64,
-                 "imagewidth":64
-                }, 
-                {
-                 "id":10,
-                 "image":"src\/img\/feuertonne4.png",
-                 "imageheight":64,
-                 "imagewidth":64
-                }, 
-                {
-                 "id":11,
-                 "image":"src\/img\/feuertonne5.png",
-                 "imageheight":64,
-                 "imagewidth":64
-                }, 
-                {
-                 "id":14,
-                 "image":"src\/img\/rotk\u00e4ppchenkiste.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":15,
-                 "image":"src\/img\/sektflaschen.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":16,
-                 "image":"src\/img\/sektglaeser.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":17,
-                 "image":"src\/img\/spiegel.png",
-                 "imageheight":32,
-                 "imagewidth":32
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":46
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":46
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":47
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":47
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":76
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":76
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":47
+                        }],
+                 "id":47,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":32,
+                             "id":1,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":28,
+                             "x":1,
+                             "y":0
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    }
                 }],
-         "tilewidth":64
+         "tilewidth":32
+        }, 
+        {
+         "columns":32,
+         "firstgid":867,
+         "image":"src\/tiled_room.png",
+         "imageheight":2048,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"tiled_room",
+         "spacing":0,
+         "tilecount":2048,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":4,
+         "firstgid":2915,
+         "image":"src\/img\/DJ.png",
+         "imageheight":96,
+         "imagewidth":143,
+         "margin":0,
+         "name":"DJ",
+         "spacing":0,
+         "tilecount":12,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
