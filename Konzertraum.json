@@ -139,7 +139,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/twitch.tv\/azkoeln"
+                 "value":"https:\/\/player.twitch.tv\/?channel=azkoeln&parent=twitch.tv\/azkoeln"
                 }, 
                 {
                  "name":"openWebsitePolicy",
